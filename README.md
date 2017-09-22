@@ -9,14 +9,14 @@
 - Partners
 - Team
 - Footer
- - Contact form
+  - Contact form
 
 ## Products
 
 - Header
 - List of products
 - Footer
- - Contact form
+  - Contact form
 
 ## Product
 
@@ -24,7 +24,7 @@
 - Product Images
 - Product description
 - Footer
- - Contact form
+  - Contact form
 
 ## About 
 
@@ -33,11 +33,11 @@
 - Partners
 - Team
 - Footer
- - Contact form
+  - Contact form
 
 ## Contact
 
 - Header
 - Contact section
 - Footer
- - Contact form
+  - Contact form
