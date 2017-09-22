@@ -35,6 +35,13 @@
 - Footer
   - Contact form
 
+## Publications
+
+- Header
+- Publications list
+- Footer
+  - Contact form
+
 ## Contact
 
 - Header
