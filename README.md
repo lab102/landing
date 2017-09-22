@@ -1,5 +1,7 @@
 # landing
 
+- Multilang support
+
 ## Main page
 
 - Header
