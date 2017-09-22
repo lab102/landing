@@ -1,6 +1,7 @@
 # landing
 
 - Multilang support
+- Redirect language based on IP
 
 ## Main page
 
