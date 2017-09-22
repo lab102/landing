@@ -2,6 +2,7 @@
 
 - Multilang support
 - Redirect language based on IP
+- SEO friendly => nuxt.js
 
 ## Main page
 
